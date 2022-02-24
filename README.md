@@ -1,5 +1,5 @@
 # MATLAB version of autocorrelator
-Autocorrelator
+MATLAB version of Autocorrelator
 
 To measure ultrashort pulses
 
